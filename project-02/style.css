@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#principal{
+    border: 2px solid black;
+}
+
+.logo-p:hover{
+    cursor: pointer;
+}
+
+.logo-p{
+    height: 540px;
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+    margin: 0px
+}
+
+.topo{
+    background-image: url(/project-02/imagens/Blonde-girl-fashion-gray-background_3840x2160.jpg);
+    border-bottom: 2px solid black;
+    background-size: cover;
+    background-position: center top;
+    height: 750px;
+    width: 1920px;
+}
+
+#caixa-lista{
+    text-align: center;
+    margin: 0px;
+    width: 700px;
+    position: relative;
+    bottom: 530px;
+    left: 1200px;
+}
+
+.lista{
+    display: inline-block;
+    text-align: right;
+    list-style: none;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin: 10px;
+    padding-left: 21px;
+    text-transform: uppercase;
+    color: rgb(167, 167, 167);
+    text-shadow: 1px 1px 2px black;
+}
+
+.lista:hover{
+    cursor: pointer;
+    color: white;
+    transition-duration: 0.3s;
+}
+
+.pipe-ul{
+    display: inline-block;
+    text-align: right;
+    position: relative;
+    bottom: 585px;
+    left: 5px;
+}
+
+.pipe-li{
+    display: inline-block;
+    font-size: 40px;
+    color: rgb(167, 167, 167);
+    margin-left: 200px;
+    position: relative;
+    left: 1260px;
+    text-shadow: 1px 1px 2px black;
+    cursor: default;
+}
+
+.titulo-main{
+    margin-top: 100px;
+    font-size: 60px;
+    text-align: center;
+}
