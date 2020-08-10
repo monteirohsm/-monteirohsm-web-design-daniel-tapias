@@ -27,7 +27,7 @@ body{
 }
 
 .topo{
-    background-image: url(/project-02/imagens/Blonde-girl-fashion-gray-background_3840x2160.jpg);
+    background-image: url(./imagens/Blonde-girl-fashion-gray-background_3840x2160.jpg);
     border-bottom: 2px solid black;
     background-size: cover;
     background-position: center top;
